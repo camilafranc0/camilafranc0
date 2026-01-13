@@ -17,10 +17,11 @@
 <br>
 <div align="center"> 
     <samp> 
-        <h2><b>🛠️ Tech Stack</b></h2>
+        <h3><b>🛠️ Tech Stack</b></h3>
     </samp>
 
 </div>
+
 <div> 
     <samp> 
         <h3><b>Frontend: </3></h1>
