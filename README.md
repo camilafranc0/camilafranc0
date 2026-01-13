@@ -4,13 +4,14 @@
 </div>
 
 #
- <samp>
+  <samp>
       <br>
-      📚 Formada em Análise e Desenvolvimento de Sistemas. Perfil dedicado a projetos pessoais e estudos.
-      <br>
-      <br>
-       🚀 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento full stack.
+      <h4> 📚 Formada em Análise e Desenvolvimento de Sistemas. Perfil dedicado a projetos pessoais e estudos.</h4>
+      <h4>🚀 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento full stack.</h4>
+         
+       
 </samp>
+<br>
 
 #
 <br>
