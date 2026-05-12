@@ -6,7 +6,6 @@
 #
 
   <samp>
-    <br>
 <h3>📚 Formada em Análise e Desenvolvimento de Sistemas. Perfil dedicado a projetos pessoais, estudos e evolução contínua na área de tecnologia.</h3>
 
 <h3>🚀 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento full stack.</h3>
