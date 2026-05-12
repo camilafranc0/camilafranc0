@@ -7,11 +7,11 @@
 
   <samp>
     <br>
-<h4>📚 Formada em Análise e Desenvolvimento de Sistemas. Perfil dedicado a projetos pessoais, estudos e evolução contínua na área de tecnologia.</h4>
+<h3>📚 Formada em Análise e Desenvolvimento de Sistemas. Perfil dedicado a projetos pessoais, estudos e evolução contínua na área de tecnologia.</h3>
 
-<h4>🚀 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento full stack.</h4>
+<h3>🚀 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento full stack.</h3>
 
-<h4>💛 Administradora voluntária da comunidade <strong>Brasil JUG</strong>, contribuindo na organização, criação de conteúdos e fortalecimento da comunidade Java.</h4>
+<h3>💛 Administradora voluntária da comunidade <strong>Brasil JUG</strong>, contribuindo na organização, criação de conteúdos e fortalecimento da comunidade Java.</h3>
                
 </samp>
 
